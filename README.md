@@ -5,7 +5,7 @@ This is a goup work for develop a mobile application using flutter. The students
 ## Members List
 
 1. **Teto Ziella**
-2. **Ikirezi Asante*
+2. **Ikirezi Asante**
 3. **Mwesigye Mike**
 4. **Mugisha close**
 5. **Irakoze Rafiki**
