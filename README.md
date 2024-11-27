@@ -5,10 +5,10 @@ This is a goup work for develop a mobile application using flutter. The students
 ## Members List
 
 1. **Teto Ziella**
-2. **Teto Ziella**
-3. **Teto Ziella**
-4. **Teto Ziella**
-5. **Teto Ziella**
+2. **Ikirezi Asante*
+3. **Mwesigye Mike**
+4. **Mugisha close**
+5. **Irakoze Rafiki**
 
 ## Local Development
 
